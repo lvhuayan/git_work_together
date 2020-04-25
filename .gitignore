@@ -1,0 +1,5 @@
+/new/ #过滤整个文件夹
+*.txt #过滤所有.zip文件
+/new/test.c #过滤某个具体文件
+.DS_Store #Mac用来存储文件夹信息的文件
+npm-debug.log* #npm报错信息文件
